@@ -231,6 +231,7 @@ Estudante de desenvolvimento backend e Inteligência Artificial
 - 🔗 [LinkedIn](https://www.linkedin.com/in/davi-bezerra-fraga-319a49363/)
 - 🐙 [GitHub](https://github.com/Davibzf)
 - 📧 [Email](mailto:davibezerrafraga@gmail.com)
+- 🌐 [Portfólio](https://davibezerrafraga.vercel.app)
 
 ---
 
