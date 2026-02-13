@@ -1,5 +1,16 @@
 # 🧠 ML Voice Assistant – V1
 
+
+[![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=plastic&logo=python)](https://python.org)
+[![Whisper](https://img.shields.io/badge/Whisper-OpenAI-black?style=plastic&logo=openai)](https://openai.com)
+[![Gemini](https://img.shields.io/badge/Gemini-Google-blue?style=plastic&logo=google)](https://deepmind.google)
+[![PyAudio](https://img.shields.io/badge/PyAudio-Audio-orange?style=plastic)](http://people.csail.mit.edu/hubert/pyaudio/)
+[![pyttsx3](https://img.shields.io/badge/pyttsx3-TTS-green?style=plastic)](https://pyttsx3.readthedocs.io/)
+[![Status](https://img.shields.io/badge/status-V1--Ativo-brightgreen?style=plastic)]()
+[![Licença](https://img.shields.io/badge/licença-MIT-blue?style=plastic)](LICENSE)
+[![Contribuições](https://img.shields.io/badge/contribuições-bemvindas-orange?style=plastic)]()
+
+
 **Assistente de voz pessoal desenvolvido em Python com pipeline completo de IA:**
 
 **captura de áudio → transcrição → processamento com LLM → resposta por síntese de voz**
