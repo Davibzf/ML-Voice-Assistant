@@ -1,6 +1,8 @@
 # 🧠 ML Voice Assistant – V1
 
-**Assistente de voz pessoal desenvolvido em Python com pipeline completo de IA: captura de áudio → transcrição → processamento com LLM → resposta por síntese de voz**
+**Assistente de voz pessoal desenvolvido em Python com pipeline completo de IA:**
+
+**captura de áudio → transcrição → processamento com LLM → resposta por síntese de voz**
 
 ---
 
